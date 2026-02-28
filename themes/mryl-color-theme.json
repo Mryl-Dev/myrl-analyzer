@@ -1,0 +1,19 @@
+{
+  "name": "Mryl Dark+",
+  "type": "dark",
+  "colors": {},
+  "tokenColors": [
+    { "scope": "comment.line.content.mryl, comment.block.content.mryl, comment.line.mryl, comment.block.mryl", "settings": { "foreground": "#588b40", "fontStyle": "italic" } },
+    { "scope": "keyword.control.mryl", "settings": { "foreground": "#569cd6" } },
+    { "scope": "keyword.declaration.mryl", "settings": { "foreground": "#c586c0" } },
+    { "scope": "storage.type.mryl, entity.name.type.mryl", "settings": { "foreground": "#4ec9b0" } },
+    { "scope": "entity.name.function.mryl, entity.name.function.call.mryl", "settings": { "foreground": "#dcdcaa" } },
+    { "scope": "variable.other.mryl", "settings": { "foreground": "#9cdcfe" } },
+    { "scope": "constant.numeric.mryl", "settings": { "foreground": "#b5cea8" } },
+    { "scope": "string.quoted.double.mryl, string.quoted.single.mryl", "settings": { "foreground": "#ce9178" } },
+    { "scope": "punctuation.bracket.curly.mryl", "settings": { "foreground": "#d4d4d4" } },
+    { "scope": "punctuation.bracket.round.mryl", "settings": { "foreground": "#d4d4d4" } },
+    { "scope": "punctuation.bracket.square.mryl", "settings": { "foreground": "#d4d4d4" } },
+    { "scope": "entity.name.type.struct.mryl, entity.name.type.enum.mryl, entity.name.type.mryl", "settings": { "foreground": "#4EC9B0", "fontStyle": "bold" } }
+  ]
+}
